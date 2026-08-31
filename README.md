@@ -19,11 +19,11 @@
 <a href="mailto:atulyapnd7@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/incredible7777"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
-<br/><br/>
+<!-- <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=incredible7777&label=Profile%20Views&color=8B5CF6&style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/github/followers/incredible7777?label=Followers&style=for-the-badge&color=A78BFA&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/github/stars/incredible7777?label=Stars&style=for-the-badge&color=C4B5FD&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/github/stars/incredible7777?label=Stars&style=for-the-badge&color=C4B5FD&labelColor=1a1a2e"/> -->
 
 </div>
 
@@ -83,7 +83,7 @@ I'm a final-year **Computer Science & Engineering** undergraduate at **IIIT Kota
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Classical ML / Fraud Detection** | 🟣🟣🟣🟣⚪ Advanced | Benchmarked Logistic Regression, SVM, Random Forest, XGBoost & Neural Nets on imbalanced transaction data — 0.95 accuracy, 0.98 AUC |
+| **Classical ML** | 🟣🟣🟣🟣⚪ Advanced | Benchmarked Logistic Regression, SVM, Random Forest, XGBoost & Neural Nets on imbalanced transaction data |
 | **Deep Learning** | 🟣🟣🟣⚪⚪ Intermediate | Neural network fundamentals with Keras/TensorFlow (IBM-certified) |
 | **Data Analytics & Visualization** | 🟣🟣🟣⚪⚪ Intermediate | SQL-driven EDA, Power BI dashboards, Excel data preparation (Microsoft-certified) |
 | **Generative AI Integration** | 🟣🟣🟣⚪⚪ Intermediate | Embedded Google Gemini into a production chat app with NL intent detection & contextual Q&A |
