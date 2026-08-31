@@ -79,7 +79,7 @@ I'm a final-year **Computer Science & Engineering** undergraduate at **IIIT Kota
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Classical ML / Fraud Detection** | 🟣🟣🟣🟣⚪ Advanced | Benchmarked Logistic Regression, SVM, Random Forest, XGBoost & Neural Nets on imbalanced transaction data — 0.95 accuracy, 0.98 AUC |
+| **Classical ML** | 🟣🟣🟣🟣⚪ Advanced | Benchmarked Logistic Regression, SVM, Random Forest, XGBoost & Neural Nets on imbalanced transaction data — 0.95 accuracy, 0.98 AUC |
 | **Deep Learning** | 🟣🟣🟣⚪⚪ Intermediate | Neural network fundamentals with Keras/TensorFlow (IBM-certified) |
 | **Data Analytics & Visualization** | 🟣🟣🟣⚪⚪ Intermediate | SQL-driven EDA, Power BI dashboards, Excel data preparation (Microsoft-certified) |
 | **Generative AI Integration** | 🟣🟣🟣⚪⚪ Intermediate | Embedded Google Gemini into a production chat app with NL intent detection & contextual Q&A |
