@@ -19,13 +19,13 @@
 <a href="mailto:atulyapnd7@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/incredible7777"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
-<!-- <br/><br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=incredible7777&label=Profile%20Views&color=8B5CF6&style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/github/followers/incredible7777?label=Followers&style=for-the-badge&color=A78BFA&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/github/stars/incredible7777?label=Stars&style=for-the-badge&color=C4B5FD&labelColor=1a1a2e"/>-->
+<img src="https://img.shields.io/github/stars/incredible7777?label=Stars&style=for-the-badge&color=C4B5FD&labelColor=1a1a2e"/>
 
-</div> 
+</div>
 
 <br/>
 
@@ -83,7 +83,7 @@ I'm a final-year **Computer Science & Engineering** undergraduate at **IIIT Kota
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Classical ML** | 🟣🟣🟣🟣⚪ Advanced | Benchmarked Logistic Regression, SVM, Random Forest, XGBoost & Neural Nets on imbalanced transaction data — 0.95 accuracy, 0.98 AUC |
+| **Classical ML / Fraud Detection** | 🟣🟣🟣🟣⚪ Advanced | Benchmarked Logistic Regression, SVM, Random Forest, XGBoost & Neural Nets on imbalanced transaction data — 0.95 accuracy, 0.98 AUC |
 | **Deep Learning** | 🟣🟣🟣⚪⚪ Intermediate | Neural network fundamentals with Keras/TensorFlow (IBM-certified) |
 | **Data Analytics & Visualization** | 🟣🟣🟣⚪⚪ Intermediate | SQL-driven EDA, Power BI dashboards, Excel data preparation (Microsoft-certified) |
 | **Generative AI Integration** | 🟣🟣🟣⚪⚪ Intermediate | Embedded Google Gemini into a production chat app with NL intent detection & contextual Q&A |
@@ -107,7 +107,7 @@ Full-stack real-time communication platform with an integrated AI assistant, bui
 | **Performance** | Optimized MongoDB aggregation pipelines for real-time unread badge counts |
 | **Security** | Passwordless 6-digit OTP auth with stateless JWT authorization |
 | **Impact** | Admin Command Center for platform-wide moderation & control |
-| **Repository** | [github.com/incredible7777/Arthur](https://github.com/incredible7777) |
+| **Repository** | [github.com/incredible7777/Arthur-The-Chat-App](https://github.com/incredible7777/Arthur-The-Chat-App) |
 
 Built a responsive frontend with gesture-based interactions, quick reactions, and multimedia/document sharing, backed by a Gemini-powered assistant that automates workspace actions and answers contextual questions in natural language.
 
@@ -126,7 +126,7 @@ Full-stack e-commerce platform for online cake ordering, mapping a real business
 | **Performance** | Efficient backend APIs for data handling & validation |
 | **Security** | Server-side validation across order & checkout flows |
 | **Impact** | Improved customer usability with a responsive storefront UI |
-| **Repository** | [github.com/incredible7777/Cake-Bakery](https://github.com/incredible7777) |
+| **Repository** | [github.com/incredible7777/Bakery-Web](https://github.com/incredible7777/Bakery-Web) |
 
 Designed the complete order management system end-to-end, from product catalog to checkout, with backend APIs built for reliable data handling.
 
