@@ -245,7 +245,7 @@ Led alumni engagement and public relations for the institute's official alumni r
 
 <br/>
 
-## &nbsp;&nbsp;🟣&nbsp; GitHub Trophies
+<!-- ## &nbsp;&nbsp;🟣&nbsp; GitHub Trophies
 
 <div align="center">
 
@@ -271,7 +271,7 @@ Led alumni engagement and public relations for the institute's official alumni r
 
 <img src="https://raw.githubusercontent.com/incredible7777/incredible7777/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
+</div> -->
 
 <br/>
 
