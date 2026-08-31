@@ -19,19 +19,17 @@
 <a href="mailto:atulyapnd7@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
 <a href="https://github.com/incredible7777"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
 
-<!-- <br/><br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=incredible7777&label=Profile%20Views&color=8B5CF6&style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/github/followers/incredible7777?label=Followers&style=for-the-badge&color=A78BFA&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/github/stars/incredible7777?label=Stars&style=for-the-badge&color=C4B5FD&labelColor=1a1a2e"/>
 
-</div> -->
+</div>
 
 <br/>
 
 ## &nbsp;&nbsp;🟣&nbsp; About Me
-
-<img align="right" width="290" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
 
 I'm a final-year **Computer Science & Engineering** undergraduate at **IIIT Kota**, focused on building AI/ML-driven and full-stack products that solve real, business-shaped problems — from detecting fraudulent transactions with 0.98 AUC to securing critical power-grid communication protocols against real-world attacks.
 
@@ -51,7 +49,8 @@ I'm a final-year **Computer Science & Engineering** undergraduate at **IIIT Kota
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,py,js,html,css" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 **Frontend**
 <br/>
@@ -59,15 +58,20 @@ I'm a final-year **Computer Science & Engineering** undergraduate at **IIIT Kota
 
 **Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 **AI / ML & Data**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,powerbi" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </div>
 
@@ -79,7 +83,7 @@ I'm a final-year **Computer Science & Engineering** undergraduate at **IIIT Kota
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Classical ML** | 🟣🟣🟣🟣⚪ Advanced | Benchmarked Logistic Regression, SVM, Random Forest, XGBoost & Neural Nets on imbalanced transaction data — 0.95 accuracy, 0.98 AUC |
+| **Classical ML / Fraud Detection** | 🟣🟣🟣🟣⚪ Advanced | Benchmarked Logistic Regression, SVM, Random Forest, XGBoost & Neural Nets on imbalanced transaction data — 0.95 accuracy, 0.98 AUC |
 | **Deep Learning** | 🟣🟣🟣⚪⚪ Intermediate | Neural network fundamentals with Keras/TensorFlow (IBM-certified) |
 | **Data Analytics & Visualization** | 🟣🟣🟣⚪⚪ Intermediate | SQL-driven EDA, Power BI dashboards, Excel data preparation (Microsoft-certified) |
 | **Generative AI Integration** | 🟣🟣🟣⚪⚪ Intermediate | Embedded Google Gemini into a production chat app with NL intent detection & contextual Q&A |
